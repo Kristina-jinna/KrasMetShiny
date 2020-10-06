@@ -1,4 +1,4 @@
-В данном репозитории 2а файла (Dokerfile script.r).
+В данном репозитории 2а файла (Dokerfile TestScript.r).
 
 К сожалению, я не успела пробросить порты, только успела создать образ с сопутствующими сервисами и библиотеками (R, shiny, nginx, shiny server). Данный образ залит на Docker Hub (https://hub.docker.com/repository/docker/291290/shiny_server). 
 
